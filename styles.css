@@ -4,3 +4,10 @@ body {
   background: orange;
   color: white;
 }
+
+#new-container {
+	font-size: 20px;
+	background-color: lightblue;
+	color: green;
+	text-align=center;
+	}
