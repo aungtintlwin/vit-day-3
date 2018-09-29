@@ -12,7 +12,7 @@ body { background: orange; color: white; }
 img {padding:1px; border:1px solid #021a40; overflow:hidden;}
 
 a:link    { color: blue; }
-a:visited { color: green; }
+a:visited { color: black; }
 a:hover	  { color: red; }
 a:active  { color: pink; }
 
@@ -32,7 +32,7 @@ a:active  { color: pink; }
 		color: white;
 		text-align: left;
 		list-style: square;
-		background-image: url('../images/flame.jpeg');
+		background-image: url('../images/tran.jpeg');
 		height: 100%; 
 		background-position: center;
 		background-repeat: non-repeat;
